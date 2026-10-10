@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @DalitsoMalama
-- 👀 I’m interested in full stack development in C# dotnet, and react native and c/c++ for IOT project solution(Arduino)
+Turning spreadsheets into systems people rely on. Automate Zambia Agenda 2030
+Billing dashboards, GIS maps, automated reports, audit and attendance platforms — designed, built and running every day inside a working water utility in Zambia.
+-Creating since 2022
 - 💞️ I’m looking to collaborate on multiple software solution projects
 - 📫 How to reach me EMAIL: dalitsomalama518@gmail.com
 - 😄 Pronouns: Male
