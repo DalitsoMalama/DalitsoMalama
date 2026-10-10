@@ -20,9 +20,9 @@ I'm a Graduate Trainee in Software and Data Science at **Nkana Water Supply and 
 
 My job is to find the processes that still run on Excel, email and paper, and replace them with systems that billing, customer service, HR and audit teams use every day. I design them, build them and keep them running inside a working water utility.
 
-- 🔭 Currently building a **GIS operations map** and an **internal audit platform**
-- 🌍 Working towards automating Zambia's everyday processes, in line with Agenda 2030
-- 💬 Have a manual process you'd like automated? [Send me the idea](https://dalitsomalama-dev.vercel.app/ideas)
+-  Currently building a **GIS operations map** and an **internal audit platform**
+-  Working towards automating Zambia's everyday processes, in line with Agenda 2030
+-  Have a manual process you'd like automated? [Send me the idea](https://dalitsomalama-dev.vercel.app/ideas)
 
 ### Impact at a glance
 
